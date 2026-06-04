@@ -1,0 +1,30 @@
+table{
+    background-color: #f6fe0d;
+}
+
+
+body{
+    background-color: #f8f8f8a4;
+    padding: 20px;
+}
+
+
+.navbar a{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+
+.form-container {
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    max-width: 400px;
+}
+
+
+.form-container h2 {
+    font-size: 18px;
+    margin-bottom: 25px;
+    color: #333;
+    font-weight: n
+}
